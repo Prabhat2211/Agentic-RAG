@@ -12,12 +12,12 @@ The code has been organized as:
 2. git clone the repository
 3. Run the command: streamlit run main.py
 4. This will open the UI:
-    * Input OpenAI API key
+    * Input OpenAI API key and slack user token
     * upload pdf file
     * enter one or multiple questions and post the results on slack
 
 ## Sample Output
-1. App Result: <img width="1249" alt="Screenshot 2024-08-12 at 11 32 29 PM" src="https://github.com/user-attachments/assets/628cd993-f6f1-4b91-878a-bcac1a8b2472">
-Slack Result: ![Screenshot 2024-08-12 at 11 33 56 PM](https://github.com/user-attachments/assets/92aa0c9e-d2a0-41d1-9ad3-f0cf1fb1cc81)
-2. App Result: <img width="1227" alt="Screenshot 2024-08-12 at 11 41 17 PM" src="https://github.com/user-attachments/assets/0e3625f1-bf21-4240-a172-182ca7be653d">
-Slack Result: ![Screenshot 2024-08-12 at 11 41 41 PM](https://github.com/user-attachments/assets/3a14c45f-9af8-4a22-a8a5-d82ebe2f8961)
+1. App output:<img width="1266" alt="Screenshot 2024-08-13 at 12 02 51 AM" src="https://github.com/user-attachments/assets/76ca6850-2e00-4e0a-9a07-c26cac90d9c9">
+   Slack output: ![Screenshot 2024-08-13 at 12 03 19 AM](https://github.com/user-attachments/assets/9cb74724-c4d7-4809-94e2-9a699ad7dae2)
+2. App Output:  <img width="1272" alt="Screenshot 2024-08-13 at 12 06 35 AM" src="https://github.com/user-attachments/assets/a4e00410-639e-4e40-a120-75969c4f6c35">
+   Slack Output: ![Screenshot 2024-08-13 at 12 06 13 AM](https://github.com/user-attachments/assets/4d3243dd-7810-4bc3-96e9-dc7afd7a9dbd)
